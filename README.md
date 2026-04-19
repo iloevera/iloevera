@@ -12,13 +12,13 @@
     <img src="https://img.shields.io/badge/email-iloe%40hku.hk-white?style=for-the-badge" alt="Email">
   </a>
 
-  <br><br>
+  <br>
   
   <pre>
     💼 BEng(ElecE), HKU
     💻 Firmware programming • Electronic hardware design • Embedded systems
     🎮 Risk of Rain 2
   </pre>
-  <br><br>
+  <br>
   <img width="100%" alt="Banner" src="https://github.com/user-attachments/assets/2ed54b08-449f-4758-a64c-6fc300805428" />
 </div>
