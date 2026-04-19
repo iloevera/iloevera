@@ -15,4 +15,7 @@
   <br>
 
   <img width="100%" alt="Banner" src="https://github.com/user-attachments/assets/a178903f-b43a-41c8-9ff9-0f5196a8e0e0" />
+  <p align="center" style="opacity: 0.5;">
+    <sub>National Day Fireworks from Braemar Hill, Hong Kong Island</sub>
+  </p>
 </div>
