@@ -11,6 +11,8 @@
     💻 Firmware programming • Electronic hardware design • Embedded systems
     🎮 Risk of Rain 2
   </pre>
+  
   <br>
+  
   <img width="100%" alt="Banner" src="https://github.com/user-attachments/assets/2ed54b08-449f-4758-a64c-6fc300805428" />
 </div>
