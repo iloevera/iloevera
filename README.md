@@ -15,7 +15,7 @@
   <br><br>
   
   <pre>
-    💼 BEng(ElecE), HKU
+    💼 Y3 BEng(ElecE) @ HKU
     💻 Firmware programming • Electronic hardware design • Embedded systems
     🎮 Risk of Rain 2
   </pre>
