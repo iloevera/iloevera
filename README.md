@@ -1,5 +1,7 @@
 <div align="center">
   <pre>
+    <b>Ilo Japar</b>
+    <br>
     💼 Y3 BEng(ElecE) @ HKU
     💻 Firmware programming • Electronic hardware design • Embedded systems
     🎮 Risk of Rain 2
