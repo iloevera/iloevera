@@ -3,7 +3,7 @@
     <b>Ilo Japar</b>
     <br>
     💼 Y3 BEng(ElecE) @ HKU
-    💻 Firmware programming • Electronic hardware design • Embedded systems
+    💻 Motors n sensors n cameras n such
     🎮 Risk of Rain 2
     📧 iloe@hku.hk
   </pre>
